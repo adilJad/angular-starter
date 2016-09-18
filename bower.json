@@ -1,0 +1,14 @@
+{
+  "name": "angular-starter",
+  "authors": [
+    "Adil Jad Allah Eddib <jad.eddib@gmail.com>"
+  ],
+  "description": "This is a starter for angular projects with angular-material and angularFire",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "angular-material": "^1.1.1",
+    "mdi": "^1.7.22"
+  }
+}
